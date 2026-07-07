@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+dist/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller spec output
+*.pkg
+
+# Installers & binaries
+*.msi
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
